@@ -1,0 +1,170 @@
+.form-popup {
+  max-width: 330px;
+  background: rgba(28, 28, 28, 0.76);
+  color: #fff;
+  padding: 40px 25px;
+  border-radius: 20px;
+  position: relative;
+  margin: auto;
+}
+
+.form-temp .form-title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.form-temp input {
+  width: 100%;
+  height: 40px;
+}
+
+.form-temp label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.check-block {
+  font-size: 14px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.check-block label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.check-block input {
+  margin-right: 10px;
+  min-width: 16px;
+  width: 16px;
+  height: 16px;
+}
+
+/*==========  Desktop First  ==========*/
+
+/* Large Devices, Wide Screens */
+
+/* Medium Devices, Desktops */
+
+/* Small Devices, Tablets */
+
+/* Extra Small Devices, Phones */
+
+/* Custom, iPhone Retina */
+
+/*==========  Mobile First  ==========*/
+
+/* Custom, iPhone Retina */
+
+/* Extra Small Devices, Phones */
+
+/* Small Devices, Tablets */
+
+/* Medium Devices, Desktops */
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 320px) {
+  /**/
+}
+
+@media only screen and (min-width: 480px) {
+  /**/
+}
+
+@media only screen and (min-width: 768px) {
+  /**/
+}
+
+@media only screen and (min-width: 992px) {
+  /**/
+}
+
+@media only screen and (min-width: 1200px) {
+  /**/
+}
+
+@media only screen and (max-width: 1700px) {
+  /**/
+}
+
+@media only screen and (max-width: 1600px) {
+  /**/
+}
+
+@media only screen and (max-width: 1400px) {
+  /**/
+}
+
+@media only screen and (max-width: 1200px) {
+  /**/
+}
+
+@media only screen and (max-width: 992px) {
+  /**/
+
+  .top-header-wrap .close {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 30px;
+    cursor: pointer;
+    display: block;
+    width: 30px;
+  }
+
+  .top-header-wrap ul {
+    height: auto;
+  }
+
+  .top-header-wrap .navigation {
+    position: absolute;
+    right: 0;
+    top: 65px;
+    width: 320px;
+    background-color: #fff;
+    z-index: 99;
+    padding: 15px;
+  }
+
+  .top-header-wrap .navigation li {
+    display: block;
+  }
+
+  .top-header-wrap .navigation li a {
+    padding: 10px 15px;
+    display: block;
+    min-height: 51px;
+  }
+
+  .mobil-mnu {
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  /**/
+}
+
+@media only screen and (max-width: 480px) {
+  /**/
+}
+
+@media only screen and (max-width: 320px) {
+  /**/
+}
